@@ -11,21 +11,21 @@ donde los valores de X están entre 5 y 10 y los valores de Y entre 5 y 25. Para
 ![Gráfica para la función de densidad marginal de X.](/DensidadX.png)
 
 La gráfica para la función de densidad marginal de Y es: 
-![Marginal Y](https://lh3.googleusercontent.com/DbA3YpGchIYrI0R_T9X3QxgtrDzBBrp-opOGb-Q92Z3JAshNGELkmBZVAIqdQm9kijTlaUBqu7pY "Y")
+![Marginal Y](/DensidadY.png)
 
 Para ambas se encontró que la curva de mejor ajuste es gaussiana, con esto fue posible graficar las curvas de mejor ajuste. La curva de mejor ajuste obtenida para X es: 
-![enter image description here](https://lh3.googleusercontent.com/Qgxb-__enzDLdWfJ5r7-90sh2Fh1ax-8Lrf9gZrZZMMs8Z5ko7yfZ4-EY8csBxASDJ6C-ftUDhhy "ajusteX")
+![enter image description here](/AjusteX.png)
 
  La curva de mejor ajuste obtenida para Y es: 
- ![enter image description here](https://lh3.googleusercontent.com/LaLt8jwDQ3KUqRMNCytmAzB8C_wu66KTJRIC6sHxSNv_d6xO4_2qKSmqBA67c3P4jbTPdUu7iKW0 "ajusteY")
+ ![enter image description here](/AjusteY.png)
 
 Como se observa en las siguientes gráficas donde se graficaron ambas curvas, con y sin ajuste, las curvas de ajuste son adecuadas para modelar los datos: 
 
  - X: 
- ![](https://lh3.googleusercontent.com/5XQtopYOoPsJYh7ErfF82O-TEuS54uTdbhZAKwpND89zOL8C61z0Ws7ljNDVOW2e4w8Yg3lhKFpx "ambasX")
+ ![](/curvasX.png)
  
  - Y: 
- ![Y](https://lh3.googleusercontent.com/nKpNYZr4l3uPKCqI4k2ApuHtvXYRoTBpZgasiaQRVMPfrMn7_jbHiQ6tt0jpTMss-ynRv0Mv_h7M "ambasY")
+ ![Y](/curvasY.png)
 Con este modelado fue también posible encontrar los valores de los parámetros $\mu_x$, $\sigma_x$, $\mu_y$ y $\sigma_y$. Se obtuvieron los siguientes resultados: 
  - $\mu_x$ = 9.90484381
  - $\sigma_x$ = 3.29944286
@@ -43,7 +43,7 @@ $$ f_{x,y}(x,y) = \frac{e^{-\frac{(x-\mu_x)^2}{2\sigma_x^2}-{\frac{(y-\mu_y)^2}{
 Donde los valores para las variables $\mu_x$, $\sigma_x$, $\mu_y$ y $\sigma_y$ fueron encontrados previamente. 
 Al graficar esto se obtiene la siguiente gráfica en 3D: 
 
-![xy3D](https://lh3.googleusercontent.com/mVWvl1BsvTqTeCtfQbyAZWxSEtY8TPhGZtYuU-EprGKyVlGtikscZ_tkYHOsLL-lTq5Xa9mm9RMA "3d")
+![xy3D](/densidad3D.png)
 
 ## Correlación, covarianza y coeficiente de correlación
 Para el cálculo de la correlación se usó la siguiente fórmula: 
