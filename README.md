@@ -4,7 +4,10 @@
  ## Funciones de densidad marginales
  Para los datos en X y en Y se obtuvo que la curva de mejor ajuste es una distribución gaussiana, donde las funciones de densidad están dadas por las siguientes ecuaciones: 
  
- $$ f_x(x) = \frac{1}{\sigma \sqrt{2\pi}} \cdot e^{-\frac{(x-\mu)^2}{2\sigma^2}} $$
+ <p align="center">
+  <img src="https://render.githubusercontent.com/render/math?math=f_x(x) = \frac{1}{\sigma \sqrt{2\pi}} \cdot e^{-\frac{(x-\mu)^2}{2\sigma^2}}">  
+</p>
+ 
  $$ f_y(y) = \frac{1}{\sigma \sqrt{2\pi}} \cdot e^{-\frac{(y-\mu)^2}{2\sigma^2}} $$
 donde los valores de X están entre 5 y 10 y los valores de Y entre 5 y 25. Para encontrar los valores de la función de densidad marginal para ambas variables se realizó una sumatoria de los valores de probabilidad relacionados a cada una de las variables. Con los datos se estas sumatorias, se graficaron la funciones de densidad marginales para X y Y sin curvas de ajuste. La gráfica para la función de densidad marginal de X es:
 
@@ -14,18 +17,23 @@ La gráfica para la función de densidad marginal de Y es:
 ![Marginal Y](/DensidadY.png)
 
 Para ambas se encontró que la curva de mejor ajuste es gaussiana, con esto fue posible graficar las curvas de mejor ajuste. La curva de mejor ajuste obtenida para X es: 
+
 ![enter image description here](/AjusteX.png)
 
- La curva de mejor ajuste obtenida para Y es: 
+ La curva de mejor ajuste obtenida para Y es:
+ 
  ![enter image description here](/AjusteY.png)
 
 Como se observa en las siguientes gráficas donde se graficaron ambas curvas, con y sin ajuste, las curvas de ajuste son adecuadas para modelar los datos: 
 
  - X: 
+ 
  ![](/curvasX.png)
  
  - Y: 
+ 
  ![Y](/curvasY.png)
+ 
 Con este modelado fue también posible encontrar los valores de los parámetros $\mu_x$, $\sigma_x$, $\mu_y$ y $\sigma_y$. Se obtuvieron los siguientes resultados: 
  - $\mu_x$ = 9.90484381
  - $\sigma_x$ = 3.29944286
