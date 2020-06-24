@@ -8,7 +8,7 @@
  $$ f_y(y) = \frac{1}{\sigma \sqrt{2\pi}} \cdot e^{-\frac{(y-\mu)^2}{2\sigma^2}} $$
 donde los valores de X están entre 5 y 10 y los valores de Y entre 5 y 25. Para encontrar los valores de la función de densidad marginal para ambas variables se realizó una sumatoria de los valores de probabilidad relacionados a cada una de las variables. Con los datos se estas sumatorias, se graficaron la funciones de densidad marginales para X y Y sin curvas de ajuste. La gráfica para la función de densidad marginal de X es:
 
-![Gráfica para la función de densidad marginal de X.](\DensidadX.png)
+![Gráfica para la función de densidad marginal de X.](/DensidadX.png)
 
 La gráfica para la función de densidad marginal de Y es: 
 ![Marginal Y](https://lh3.googleusercontent.com/DbA3YpGchIYrI0R_T9X3QxgtrDzBBrp-opOGb-Q92Z3JAshNGELkmBZVAIqdQm9kijTlaUBqu7pY "Y")
