@@ -38,21 +38,21 @@ Como se observa en las siguientes gráficas donde se graficaron ambas curvas, co
  
  ![Y](/curvasY.png)
  
-Con este modelado fue también posible encontrar los valores de los parámetros $\mu_x$, $\sigma_x$, $\mu_y$ y $\sigma_y$. Se obtuvieron los siguientes resultados:
+Con este modelado fue también posible encontrar los valores de los parámetros. Se obtuvieron los siguientes resultados:
 <p align="center">
-  <img src="https://render.githubusercontent.com/render/math?math=$\mu_x$ = 9.90484381">  
+  <img src="https://render.githubusercontent.com/render/math?math=\mu_x = 9.90484381">  
 </p>
 
 <p align="center">
-  <img src="https://render.githubusercontent.com/render/math?math=$\sigma_x$ = 3.29944286">  
+  <img src="https://render.githubusercontent.com/render/math?math=\sigma_x = 3.29944286">  
 </p>
  
  <p align="center">
-  <img src="https://render.githubusercontent.com/render/math?math=$\mu_y$ = 15.0794609">  
+  <img src="https://render.githubusercontent.com/render/math?math=\mu_y = 15.0794609">  
 </p>
 
  <p align="center">
-  <img src="https://render.githubusercontent.com/render/math?math=$\sigma_y$ = 6.02693775">  
+  <img src="https://render.githubusercontent.com/render/math?math=\sigma_y = 6.02693775">  
 </p>
  
 
