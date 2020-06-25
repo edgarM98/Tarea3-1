@@ -37,11 +37,23 @@ Como se observa en las siguientes gráficas donde se graficaron ambas curvas, co
  
  ![Y](/curvasY.png)
  
-Con este modelado fue también posible encontrar los valores de los parámetros $\mu_x$, $\sigma_x$, $\mu_y$ y $\sigma_y$. Se obtuvieron los siguientes resultados: 
- - $\mu_x$ = 9.90484381
- - $\sigma_x$ = 3.29944286
- - $\mu_y$ = 15.0794609
- - $\sigma_y$ = 6.02693775
+Con este modelado fue también posible encontrar los valores de los parámetros $\mu_x$, $\sigma_x$, $\mu_y$ y $\sigma_y$. Se obtuvieron los siguientes resultados:
+<p align="center">
+  <img src="https://render.githubusercontent.com/render/math?math=$\mu_x$ = 9.90484381">  
+</p>
+
+<p align="center">
+  <img src="https://render.githubusercontent.com/render/math?math=$\sigma_x$ = 3.29944286">  
+</p>
+ 
+ <p align="center">
+  <img src="https://render.githubusercontent.com/render/math?math=$\mu_y$ = 15.0794609">  
+</p>
+
+ <p align="center">
+  <img src="https://render.githubusercontent.com/render/math?math=$\sigma_y$ = 6.02693775">  
+</p>
+ 
 
 ## Función de densidad conjunta
 Como se asume la independencia estadística de las variables, se tiene que la función de densidad conjunta es: 
@@ -58,7 +70,7 @@ Simplificando esta expresión se obtiene:
   <img src="https://render.githubusercontent.com/render/math?math=f_{x,y}(x,y) = \frac{e^{-\frac{(x-\mu_x)^2}{2\sigma_x^2}-{\frac{(y-\mu_y)^2}{2\sigma_y^2}}}}{2\pi\sigma_x\sigma_y}">  
 </p>
 
-Donde los valores para las variables $\mu_x$, $\sigma_x$, $\mu_y$ y $\sigma_y$ fueron encontrados previamente. 
+Donde los valores para los parámetros mu y sigma fueron encontrados previamente. 
 Al graficar esto se obtiene la siguiente gráfica en 3D: 
 
 ![xy3D](/densidad3D.png)
