@@ -17,6 +17,7 @@ donde los valores de X están entre 5 y 10 y los valores de Y entre 5 y 25. Para
 ![Gráfica para la función de densidad marginal de X.](/DensidadX.png)
 
 La gráfica para la función de densidad marginal de Y es: 
+
 ![Marginal Y](/DensidadY.png)
 
 Para ambas se encontró que la curva de mejor ajuste es gaussiana, con esto fue posible graficar las curvas de mejor ajuste. La curva de mejor ajuste obtenida para X es: 
